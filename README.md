@@ -16,7 +16,7 @@ function ListaDeTarefas(Project) {
 
 <div align="center">
 
-<img src="Projeto/img/readme.png" alt="Lista de Tarefas" width="800"/>
+<img src="Projeto/img/readme.png" alt="Lista de Tarefas" width="400"/>
 
 </div>
 
